@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://komarev.com/ghpvc/?username=atlxter&color=ffa941&style=for-the-badge&label=🪽་༘+"
+<img src="https://komarev.com/ghpvc/?username=atlxter&color=#d4d4ff&style=for-the-badge&label=🪽་༘+"
 alt="visitors"> </h1 ‍ ‍ 　　　　
 
 
