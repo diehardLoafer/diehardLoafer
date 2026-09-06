@@ -11,7 +11,7 @@ alt="visitors"> </h1 ‍ ‍ 　　　　
 
 
   
-                                                                                                [zyo](https://zyo.lol/alxter) - [gun](https://guns.lol/angeities) - [ata](https://angeIties.atabook.org/)  
+                                                                                                [zyo](https://zyo.lol/alxter) - [gun](https://guns.lol/angeities) - [ata](https://diehardloafer.atabook.org/)
 
 <p align="center">
   <a href="
