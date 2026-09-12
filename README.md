@@ -11,7 +11,7 @@ alt="visitors"> </h1 ‍ ‍ 　　　　
   
                                                     
   
-                                                                                                <h1 align="center">[<img width="500" height="500" alt="2c0bc6f07b5f38b14caa27ac5c6512cc-removebg-preview" src="https://github.com/user-attachments/assets/f4acbac6-e641-4ad0-9cf3-00b7303a2e34" />](https://zyo.lol/alxter) 
+                                                                                                <h1 align="center">[<img width="500" height="500" alt="2c0bc6f07b5f38b14caa27ac5c6512cc-removebg-preview" src="https://github.com/user-attachments/assets/f4acbac6-e641-4ad0-9cf3-00b7303a2e34" />](https://rentry.co/diehardLoafer) 
 
 
   
